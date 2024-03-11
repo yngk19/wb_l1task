@@ -1,4 +1,4 @@
-package t2
+package main
 
 import (
 	"fmt"
@@ -24,4 +24,4 @@ func main() {
 	}
 	// ждем завершения выполнения всех воркеров
 	wg.Wait()
-}	
+}

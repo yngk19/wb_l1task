@@ -1,4 +1,4 @@
-package t1
+package main
 
 import "fmt"
 
